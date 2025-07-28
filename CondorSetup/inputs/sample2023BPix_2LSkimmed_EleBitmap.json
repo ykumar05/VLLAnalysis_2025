@@ -1,0 +1,486 @@
+{
+    "DYJetsToLL": {
+	"DYJetsToLL_M50": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/DYJetsToLL/M50",
+	    "sample": 2,
+	    "flag":"DY",
+	    "year": 3023
+	},
+	"DYJetsToLL_M10to50": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/DYJetsToLL/M10To50",
+	    "sample": 1,
+	    "flag":"DY",
+	    "year": 3023
+	}
+    },
+
+    "Rare": {
+	"Rare_THQ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/THQ",
+	    "sample": 10,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_THW": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/THW",
+	    "sample": 11,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_TTTT": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/TTTT",
+	    "sample": 12,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_TTWH": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/TTWH",
+	    "sample": 13,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_TTWW": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/TTWW",
+	    "sample": 14,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_TTWZ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/TTWW",
+	    "sample": 15,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_TTZH": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/TTZH",
+	    "sample": 16,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Rare_TTZZ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Rare/TTZZ",
+	    "sample": 17,
+	    "flag":"rare",
+	    "year": 3023
+	}
+    },
+    
+
+    "ZZ": {
+	"ZZ_GluGluToContinToZZTo4e": {
+	    "data": 0,
+	    "sample": 24,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/GluGluToContinToZZTo4e",
+	    "flag":"zz",
+	    "year": 3023
+	},
+	"ZZ_ZZTo2L2Nu": {
+	    "data": 0,
+	    "sample": 23,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/ZZTo2L2Nu",
+	    "flag":"zz",
+	    "year": 3023
+	},
+	"ZZ_ZZTo4L": {
+	    "data": 0,
+	    "sample": 22,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/ZZTo4L",
+	    "flag":"zz",
+	    "year": 3023
+	},
+	"ZZ_ZZTo2Q2L": {
+	    "data": 0,
+	    "sample": 20,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/ZZTo2Q2L",
+	    "flag":"zz",
+	    "year": 3023
+	},
+	"ZZ_ZZTo2Q2Nu": {
+	    "data": 0,
+	    "sample": 21,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/ZZTo2Q2Nu",
+	    "flag":"zz",
+	    "year": 3023
+	},
+	"ZZ_GluGluToContinToZZTo4mu": {
+	    "data": 0,
+	    "sample": 25,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/GluGluToContinToZZTo4mu",
+	    "flag":"zz",
+	    "year": 3023
+	},
+	"ZZ_GluGluToContinToZZTo2e2mu": {
+	    "data": 0,
+	    "sample": 26,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZ/GluGluToContinToZZTo2e2mu",
+	    "flag":"zz",
+	    "year": 3023
+	}
+    },
+
+    "WZ": {
+	"WZ_WZTo2Q2L": {
+	    "data": 0,
+	    "sample": 30,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WZ/WZTo2Q2L",
+	    "flag":"wz",
+	    "year": 3023
+	},
+	"WZ_WZTo3LNu": {
+	    "data": 0,
+	    "sample": 31,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WZ/WZTo3LNu",
+	    "flag":"wz",
+	    "year": 3023
+	},
+	"WZ_WZTo1L1Nu2Q": {
+	    "data": 0,
+	    "sample": 32,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WZ/WZTo1L1Nu2Q",
+	    "flag":"wz",
+	    "year": 3023
+	}
+    },
+
+    "WW": {
+	"WW_WWTo1L1Nu2Q": {
+	    "data": 0,
+	    "sample": 40,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WW/WWTo1L1Nu2Q",
+	    "flag":"ww",
+	    "year": 3023
+	},
+	"WW_WWTo2L2Nu": {
+	    "data": 0,
+	    "sample": 41,
+	    "flag":"ww",
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WW/WWTo2L2Nu",
+	    "year": 3023
+	}   	    
+    },	
+
+    "SingleTop": {
+	"SingleTop_TBbarQ_t-channel": {
+	    "data": 0,
+	    "sample": 50,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TBbarQ",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TBbartoLplusNuBbar-s-channel": {
+	    "data": 0,
+	    "sample": 51,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TBbartoLplusNuBbar",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TQbarto2Q-t-channel": {
+	    "data": 0,
+	    "sample": 52,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TQbarto2Q",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TQbartoLNu-t-channel": {
+	    "data": 0,
+	    "sample": 53,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TQbartoLNu",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TbarBQ_t-channel": {
+	    "data": 0,
+	    "sample": 54,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TbarBQ",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TbarBtoLminusNuB-s-channel": {
+	    "data": 0,
+	    "sample": 55,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TbarBtoLminusNuB",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TbarQto2Q-t-channel": {
+	    "data": 0,
+	    "sample": 56,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TbarQto2Q",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TbarQtoLNu-t-channel": {
+	    "data": 0,
+	    "sample": 57,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TbarQtoLNu",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TWminusto2L2Nu": {
+	    "data": 0,
+	    "sample": 58,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TWminusto2L2Nu",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TWminustoLNu2Q": {
+	    "data": 0,
+	    "sample": 59,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TWminustoLNu2Q",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TbarWplusto2L2Nu": {
+	    "data": 0,
+	    "sample": 590,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TbarWplusto2L2Nu",
+	    "flag":"st",
+	    "year": 3023
+	},
+	"SingleTop_TbarWplustoLNu2Q": {
+	    "data": 0,
+	    "sample": 591,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/SingleTop/TbarWplustoLNu2Q",
+	    "flag":"st",
+	    "year": 3023
+	}
+     },
+         
+    "TTBar": {
+	"TTBar_TTTo2L2Nu": {
+	   "data": 0,
+	    "sample": 60,      
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/TTBar/TTTo2L2Nu",
+	    "flag":"ttbar",
+	    "year": 3023
+	},
+	"TTBar_TTToLNu2Q": {
+	    "data": 0,
+	    "sample": 61,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/TTBar/TTToLNu2Q",
+	    "flag":"ttbar",
+	    "year": 3023
+	}
+     },
+ 
+    "TTZ": {
+	"TTZ_TTLL_MLL-50": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/TTZ/TTLL_MLL-50",
+	    "flag":"ttz",
+	    "sample": 83,
+	    "year": 3023
+	},
+	"TTZ_TTLL_MLL-4to50": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/TTZ/TTLL_MLL-4to50",
+	    "flag":"ttz",
+	    "sample": 82,
+	    "year": 3023
+	}
+    },
+
+    "TTW": {
+	"TTW_TTWToLNu": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/TTW/TTWToLNu",
+	    "sample": 81,
+	    "flag":"ttw",
+	    "year": 3023
+	}
+    },
+    
+    "WWW": {
+	"WWW_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WWW/Inclusive",
+	    "sample": 90,
+	    "flag":"wwz",
+	    "year": 3023
+	}
+    },
+
+    "WWZ": {
+	"WWZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WWZ/Inclusive",
+	    "sample": 91,
+	    "flag":"wwz",
+	    "year": 3023
+	}
+    },
+
+    "WZZ": {
+	"WZZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/WZZ/Inclusive",
+	    "sample": 92,
+	    "flag":"wzz",
+	    "year": 3023
+	}
+    },
+
+    "ZZZ": {
+	"ZZZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZZZ/Inclusive",
+	    "sample": 93,
+	    "flag":"zzz",
+	    "year": 3023
+	}
+    },
+
+    "ZGamma": {
+        "ZGamma_MLL-4to50_PTG-10to100": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-4to50_PTG-10to100",
+            "sample": 940,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-4to50_PTG-100to200": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-4to50_PTG-100to200",
+            "sample": 941,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-4to50_PTG-200": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-4to50_PTG-200",
+            "sample": 942,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-50_PTG-10to100": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-50_PTG-10to100",
+            "sample": 949,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-50_PTG-100to200": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-50_PTG-100to200",
+            "sample": 945,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-50_PTG-200to400": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-50_PTG-200to400",
+            "sample": 946,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-50_PTG-400to600": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-50_PTG-400to600",
+            "sample": 947,
+            "flag":"zgamma",
+            "year": 3023
+        },
+        "ZGamma_MLL-50_PTG-600": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/ZGamma/MLL-50_PTG-600",
+            "sample": 948,
+            "flag":"zgamma",
+            "year": 3023
+        }
+     },
+
+    "Higgs": {
+	"Higgs_WplusH_Hto2Z": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/WplusH_Hto2Z",
+	    "sample": 103,
+	    "flag":"higgs",
+	    "year": 3023
+	},
+    	"Higgs_GluGluHtoZZ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/GluGluHtoZZ",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 3023
+	},
+	"Higgs_VBFHto2Z": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/VBFHto2Z",
+	    "sample": 101,
+	    "flag":"higgs",
+	    "year": 3023
+	},
+	"Higgs_WminusH_Hto2Z": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/WminusH_Hto2Z",
+	    "sample": 102,
+	    "flag":"higgs",
+	    "year": 3023
+	},
+	"Higgs_TTH_Hto2Mu": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/TTH_Hto2Mu",
+	    "sample": 105,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Higgs_TTH_Hto2Z": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/TTH_Hto2Z",
+	    "sample": 106,
+	    "flag":"rare",
+	    "year": 3023
+	},
+	"Higgs_GluGluZH":{
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Higgs/GluGluZH",
+	    "sample": 107,
+	    "flag":"rare",
+	    "year": 3023
+	}
+    },
+    "Muon": {
+    	"Muon_Muon0_D": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Muon/Muon0_D",
+	    "sample": 1002,
+	    "flag":"muon",
+	    "year": 3023
+	},
+    	"Muon_Muon1_D": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/Muon/Muon1_D",
+	    "sample": 1003,
+	    "flag":"muon",
+	    "year": 3023
+	}
+    },
+    "EGamma": {
+    	"EGamma_EGamma0_D": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/EGamma/EGamma0_D",
+	    "sample": 1102,
+	    "flag":"egamma",
+	    "year": 3023
+	},
+    	"EGamma_EGamma1_D": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/Run3Summer23BPix_Output/EGamma/EGamma1_D",
+	    "sample": 1103,
+	    "flag":"egamma",
+	    "year": 3023           
+	}
+     }
+}
+	    	    

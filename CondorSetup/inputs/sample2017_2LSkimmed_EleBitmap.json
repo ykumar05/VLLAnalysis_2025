@@ -1,0 +1,402 @@
+{
+    "DYJetsToLL": {
+	"DYJetsToLL_M10to50": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/DYJetsToLL/M10To50",
+	    "sample": 1,
+	    "flag":"DY",
+	    "year": 2017
+	},
+	"DYJetsToLL_M50": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/DYJetsToLL/M50",
+	    "sample": 2,
+	    "flag":"DY",
+	    "year": 2017
+	}
+    },
+
+    "Rare": {
+	"Rare_THQ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/THQ",
+	    "sample": 10,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_THW": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/THW",
+	    "sample": 11,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_TTTT": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/TTTT",
+	    "sample": 12,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_TTWH": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/TTWH",
+	    "sample": 13,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_TTWW": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/TTWW",
+	    "sample": 14,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_TTWZ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/TTWZ",
+	    "sample": 15,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_TTZH": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/TTZH",
+	    "sample": 16,
+	    "flag":"rare",
+	    "year": 2017
+	},
+	"Rare_TTZZ": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Rare/TTZZ",
+	    "sample": 17,
+	    "flag":"rare",
+	    "year": 2017
+	}
+    },
+    
+
+    "ZZ": {
+	"ZZ_ZZTo4L": {
+	    "data": 0,
+	    "sample": 22,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/ZZ/ZZTo4L",
+	    "flag":"zz",
+	    "year": 2017
+	},
+	"ZZ_GluGluToContinToZZTo4e": {
+	    "data": 0,
+	    "sample": 24,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/ZZ/GluGluToContinToZZTo4e",
+	    "flag":"zz",
+	    "year": 2017
+	},
+	"ZZ_GluGluToContinToZZTo4mu": {
+	    "data": 0,
+	    "sample": 25,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/ZZ/GluGluToContinToZZTo4mu",
+	    "flag":"zz",
+	    "year": 2017
+	},
+	"ZZ_GluGluToContinToZZTo2e2mu": {
+	    "data": 0,
+	    "sample": 26,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/ZZ/GluGluToContinToZZTo2e2mu",
+	    "flag":"zz",
+	    "year": 2017
+	}
+    },
+
+    "WZ": {
+	"WZ_WZTo3LNu": {
+	    "data": 0,
+	    "sample": 31,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WZ/WZTo3LNu",
+	    "flag":"wz",
+	    "year": 2017
+	},
+	"WZ_WZTo2Q2L": {
+	    "data": 0,
+	    "sample": 30,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WZ/WZTo2Q2L",
+	    "flag":"wz",
+	    "year": 2017
+	},
+	"WZ_WZTo1L1Nu2Q": {
+	    "data": 0,
+	    "sample": 32,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WZ/WZTo1L1Nu2Q",
+	    "flag":"wz",
+	    "year": 2017
+	}
+    },
+
+    "WW": {
+	"WW_WWTo1L1Nu2Q": {
+	    "data": 0,
+	    "sample": 40,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WW/WWTo1L1Nu2Q",
+	    "flag":"ww",
+	    "year": 2017
+	},
+	"WW_WWTo2L2Nu": {
+	    "data": 0,
+	    "sample": 41,
+	    "flag":"ww",
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WW/WWTo2L2Nu",
+	    "year": 2017
+	}   	    
+    },	
+
+    "SingleTop": {
+	"SingleTop_t-channel_Top": {
+	    "data": 0,
+	    "sample": 50,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleTop/t-channel_top",
+	    "flag":"st",
+	    "year": 2017
+	},
+	"SingleTop_t-channel_AntiTop": {
+	    "data": 0,
+	    "sample": 51,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleTop/t-channel_antitop",
+	    "flag":"st",
+	    "year": 2017
+	},
+	"SingleTop_s-channel_LeptonDecays": {
+	    "data": 0,
+	    "sample": 52,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleTop/s-channel",
+	    "flag":"st",
+	    "year": 2017
+	},
+	"SingleTop_tW_AntiTop": {
+	    "data": 0,
+	    "sample": 53,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleTop/tW_antitop",
+	    "flag":"st",
+	    "year": 2017
+	},
+	"SingleTop_tW_Top": {
+	    "data": 0,
+	    "sample": 54,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleTop/tW_top",
+	    "flag":"st",
+	    "year": 2017
+	}
+     },
+         
+    "TTBar": {
+	"TTBar_TTTo2L2Nu": {
+	   "data": 0,
+	    "sample": 60,      
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/TTBar/TTTo2L2Nu",
+	    "flag":"ttbar",
+	    "year": 2017
+	},
+	"TTBar_TTToLNu2Q": {
+	    "data": 0,
+	    "sample": 61,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/TTBar/TTToLNu2Q",
+	    "flag":"ttbar",
+	    "year": 2017
+	}
+     },
+ 
+    "TTZ": {
+	"TTZ_TTZToLL": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/TTZ/TTZToLL",
+	    "flag":"ttz",
+	    "sample": 80,
+	    "year": 2017
+	}
+    },
+
+    "TTW": {
+	"TTW_TTWToLNu": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/TTW/TTWToLNu",
+	    "sample": 81,
+	    "flag":"ttw",
+	    "year": 2017
+	}
+    },
+    
+    "WWW": {
+	"WWW_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WWW/Inclusive",
+	    "sample": 90,
+	    "flag":"www",
+	    "year": 2017
+	}
+    },
+
+    "WWZ": {
+	"WWZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WWZ/Inclusive",
+	    "sample": 91,
+	    "flag":"wwz",
+	    "year": 2017
+	}
+    },
+
+    "WZZ": {
+	"WZZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/WZZ/Inclusive",
+	    "sample": 92,
+	    "flag":"wzz",
+	    "year": 2017
+	}
+    },
+
+    "ZZZ": {
+	"ZZZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/ZZZ/Inclusive",
+	    "sample": 93,
+	    "flag":"zzz",
+	    "year": 2017
+	}
+    },
+
+    "ZGamma": {
+        "ZGamma_ZGToLLG_01J": {
+            "data": 0,
+            "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/ZGamma/ZGToLLG_01J",
+            "sample": 94,
+            "flag":"zgamma",
+            "year": 2017
+        }
+    },
+
+    "Higgs": {
+    	"Higgs_GluGluToZH_HToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/GluGluToZH",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	},
+    	"Higgs_bbH_HToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/bbH_HToZZTo4L",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	},
+    	"Higgs_GluGluHToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/GluGluHToZZTo4L",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	},
+    	"Higgs_GluGluZH_HToWW_ZTo2L": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/GluGluZH",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	},
+    	"Higgs_ttHToNonbb": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/ttHToNonbb",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	},
+    	"Higgs_VBF_HToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/VBF_HToZZTo4L",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	},
+    	"Higgs_VHToNonbb": {
+	    "data": 0,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/Higgs/VHToNonbb",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2017
+	}
+    },
+    "SingleMuon": {
+    	"SingleMuon_SingleMuon_B": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleMuon/SingleMuon_B",
+	    "sample": 1000,
+	    "flag":"singlemuon",
+	    "year": 2017
+	},
+    	"SingleMuon_SingleMuon_C": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleMuon/SingleMuon_C",
+	    "sample": 1001,
+	    "flag":"singlemuon",
+	    "year": 2017
+	},
+    	"SingleMuon_SingleMuon_D": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleMuon/SingleMuon_D",
+	    "sample": 1002,
+	    "flag":"singlemuon",
+	    "year": 2017
+	},
+	"SingleMuon_SingleMuon_E": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleMuon/SingleMuon_E",
+	    "sample": 1003,
+	    "flag":"singlemuon",
+	    "year": 2017
+	},
+    	"SingleMuon_SingleMuon_F": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleMuon/SingleMuon_F",
+	    "sample": 1004,
+	    "flag":"singlemuon",
+	    "year": 2017
+	}
+    },
+    "SingleElectron": {
+        "SingleElectron_SingleElectron_B": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleElectron/SingleElectron_B",
+	    "sample": 1100,
+	    "flag":"egamma",
+	    "year": 2017
+	},
+    	"SingleElectron_SingleElectron_C": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleElectron/SingleElectron_C",
+	    "sample": 1101,
+	    "flag":"egamma",
+	    "year": 2017
+	},
+    	"SingleElectron_SingleElectron_D": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleElectron/SingleElectron_D",
+	    "sample": 1102,
+	    "flag":"egamma",
+	    "year": 2017   
+	},
+	"SingleElectron_SingleElectron_E": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleElectron/SingleElectron_E",
+	    "sample": 1103,
+	    "flag":"egamma",
+	    "year": 2017
+	},
+	"SingleElectron_SingleElectron_F": {
+	    "data": 1,
+	    "samplepath": "/eos/user/y/ykumar/RunII_20UL17_Output/SingleElectron/SingleElectron_F",
+	    "sample": 1104,
+	    "flag":"egamma",
+	    "year": 2017
+	}
+    }
+}
+	    	    

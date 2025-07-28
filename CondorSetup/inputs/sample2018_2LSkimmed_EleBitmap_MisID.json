@@ -1,0 +1,400 @@
+{
+    "Rare": {
+	"Rare_THQ": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/THQ",
+	    "sample": 10,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_THW": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/THW",
+	    "sample": 11,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_TTTT": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/TTTT",
+	    "sample": 12,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_TTWH": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/TTWH",
+	    "sample": 13,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_TTWW": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/TTWW",
+	    "sample": 14,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_TTWZ": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/TTWZ",
+	    "sample": 15,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_TTZH": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/TTZH",
+	    "sample": 16,
+	    "flag":"rare",
+	    "year": 2018
+	},
+	"Rare_TTZZ": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Rare/TTZZ",
+	    "sample": 17,
+	    "flag":"rare",
+	    "year": 2018
+	}
+    },
+    
+
+    "ZZ": {
+	"ZZ_ZZTo4L": {
+	    "data": 0,
+	    "sample": 22,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/ZZ/ZZTo4L",
+	    "flag":"zz",
+	    "year": 2018
+	},
+	"ZZ_GluGluToContinToZZTo4e": {
+	    "data": 0,
+	    "sample": 24,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/ZZ/GluGluToContinToZZTo4e",
+	    "flag":"zz",
+	    "year": 2018
+	},
+	"ZZ_GluGluToContinToZZTo4mu": {
+	    "data": 0,
+	    "sample": 25,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/ZZ/GluGluToContinToZZTo4mu",
+	    "flag":"zz",
+	    "year": 2018
+	},
+	"ZZ_GluGluToContinToZZTo2e2mu": {
+	    "data": 0,
+	    "sample": 26,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/ZZ/GluGluToContinToZZTo2e2mu",
+	    "flag":"zz",
+	    "year": 2018
+	}
+    },
+
+    "WZ": {
+	"WZ_WZTo3LNu": {
+	    "data": 0,
+	    "sample": 31,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/WZ/WZTo3LNu_PowhegPythia",
+	    "flag":"wz",
+	    "year": 2018
+	}
+    },
+ 
+    "TTZ": {
+	"TTZ_TTZToLL": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/TTZ/TTZToLL",
+	    "flag":"ttz",
+	    "sample": 80,
+	    "year": 2018
+	}
+    },
+
+    "TTW": {
+	"TTW_TTWToLNu": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/TTW/TTWToLNu",
+	    "sample": 81,
+	    "flag":"ttw",
+	    "year": 2018
+	}
+    },
+    
+    "WWW": {
+	"WWW_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/WWW/Inclusive",
+	    "sample": 90,
+	    "flag":"www",
+	    "year": 2018
+	}
+    },
+
+    "WWZ": {
+	"WWZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/WWZ/Inclusive",
+	    "sample": 91,
+	    "flag":"wwz",
+	    "year": 2018
+	}
+    },
+
+    "WZZ": {
+	"WZZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/WZZ/Inclusive",
+	    "sample": 92,
+	    "flag":"wzz",
+	    "year": 2018
+	}
+    },
+
+    "ZZZ": {
+	"ZZZ_Inclusive": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/ZZZ/Inclusive",
+	    "sample": 93,
+	    "flag":"zzz",
+	    "year": 2018
+	}
+    },
+
+    "ZGamma": {
+        "ZGamma_ZGToLLG_01J": {
+            "data": 0,
+            "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/ZGamma/ZGToLLG_01J",
+            "sample": 94,
+            "flag":"zgamma",
+            "year": 2018
+        }
+    },
+
+    "Higgs": {
+    	"Higgs_GluGluToZH_HToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/GluGluToZH",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	},
+    	"Higgs_bbH_HToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/bbH_HToZZTo4L",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	},
+    	"Higgs_GluGluHToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/GluGluHToZZTo4L",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	},
+    	"Higgs_GluGluZH_HToWW_ZTo2L": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/GluGluZH",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	},
+    	"Higgs_ttHToNonbb": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/ttHToNonbb",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	},
+    	"Higgs_VBF_HToZZTo4L": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/VBF_HToZZTo4L",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	},
+    	"Higgs_VHToNonbb": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/Higgs/VHToNonbb",
+	    "sample": 100,
+	    "flag":"higgs",
+	    "year": 2018
+	}
+    },
+    
+    "VLLD_Muon": {
+    	"VLLD_Muon_M100": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M100",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M200": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M200",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M300": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M300",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M400": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M400",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M600": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M600",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M800": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M800",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M1000": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M1000",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M1200": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M1200",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	},
+    	"VLLD_Muon_M1400": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Muon/M1400",
+	    "flag":"vlld_mu",
+	    "year": 2018
+	}
+    },
+
+    "VLLD_Electron": {
+    	"VLLD_Electron_M100": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M100",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M200": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M200",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M300": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M300",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M400": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M400",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M600": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M600",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M800": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M800",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M1000": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M1000",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M1200": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M1200",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	},
+    	"VLLD_Electron_M1400": {
+	    "data": 0,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/VLLD/Electron/M1400",
+	    "flag":"vlld_ele",
+	    "year": 2018
+	}
+    },
+
+    "SingleMuon": {
+    	"SingleMuon_SingleMuon_A": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/SingleMuon/SingleMuon_A",
+	    "sample": 1000,
+	    "flag":"singlemuon",
+	    "year": 2018
+	},
+    	"SingleMuon_SingleMuon_B": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/SingleMuon/SingleMuon_B",
+	    "sample": 1001,
+	    "flag":"singlemuon",
+	    "year": 2018
+	},
+    	"SingleMuon_SingleMuon_C": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/SingleMuon/SingleMuon_C",
+	    "sample": 1002,
+	    "flag":"singlemuon",
+	    "year": 2018
+	},
+    	"SingleMuon_SingleMuon_D": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/SingleMuon/SingleMuon_D",
+	    "sample": 1003,
+	    "flag":"singlemuon",
+	    "year": 2018
+	}
+    },
+    "EGamma": {
+    	"EGamma_EGamma_A": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/EGamma/EGamma_A",
+	    "sample": 1100,
+	    "flag":"egamma",
+	    "year": 2018
+	},
+    	"EGamma_EGamma_B": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/EGamma/EGamma_B",
+	    "sample": 1101,
+	    "flag":"egamma",
+	    "year": 2018
+	},
+    	"EGamma_EGamma_C": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/EGamma/EGamma_C",
+	    "sample": 1102,
+	    "flag":"egamma",
+	    "year": 2018
+	},
+    	"EGamma_EGamma_D": {
+	    "data": 1,
+	    "samplepath": "/eos/cms/store/group/phys_susy/VLLAnalysis_Yash/RunII_20UL18_Output/EGamma/EGamma_D",
+	    "sample": 1103,
+	    "flag":"egamma",
+	    "year": 2018
+	}
+     }
+}
+	    	    
